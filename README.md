@@ -3,6 +3,7 @@ Welcome to the Banking System Project! This is a Java-based application that ena
 
 🚀 Features
 User Registration & Login: Secure authentication system.
+
 Account Management: Create, view, and update account details.
 Transactions:
 Deposit funds.
